@@ -1,10 +1,10 @@
-<!-- Replace every USERNAME with your GitHub username. Repo name must equal your username. -->
+<!-- Replace every janiya23a with your GitHub username. Repo name must equal your username. -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Janindu+Senuwera;CS+%26+Software+Engineering+Undergrad;Founder+%26+Lead+Developer+%40+Zeylon+Digital;Web+%7C+Desktop+%7C+Automation" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=janiya23a&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
 [![Website](https://img.shields.io/badge/Zeylon_Digital-zeylondigital.dev-00ff9c?style=flat-square&logo=googlechrome&logoColor=black)](https://zeylondigital.dev)
 [![Email](https://img.shields.io/badge/Email-janindusenuwera123%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:janindusenuwera123@gmail.com)
 
@@ -49,10 +49,8 @@ I build responsive web applications, desktop database software, and Python autom
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=janiya23a&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -62,7 +60,7 @@ I build responsive web applications, desktop database software, and Python autom
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/janiya23a/janiya23a/output/github-snake-dark.svg" alt="snake" />
 
 </div>
 
