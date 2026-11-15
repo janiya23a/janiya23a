@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Janindu Senuwera 👋
 
-<!--
-**janiya23a/janiya23a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Software Engineering undergraduate at **NSBM Green University** and Founder & Lead Developer at **Zeylon Digital**. I build responsive web applications, desktop database software, and Python automation tools.
 
-Here are some ideas to get you started:
+## What I Build
+- **Web Development:** Responsive client websites and web applications through **Zeylon Digital**.
+- **Desktop & Database Systems:** Data-driven C# and MySQL software, including an agricultural cinnamon grading and pricing system.
+- **Automation & Scripting:** Python automation tools and algorithmic trading scripts for MetaTrader 5.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** C#, Python, JavaScript, SQL, PHP, HTML5, CSS3
+- **Frameworks & Libraries:** React, Vite, Bootstrap
+- **Databases & Tools:** MySQL, DigitalOcean, Sanity.io, Git
+
+## Contact
+- **Email:** janindusenuwera123@gmail.com
